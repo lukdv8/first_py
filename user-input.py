@@ -8,3 +8,9 @@ print("\nNota da Avaliação 1: ", nota1)
 print("Nota da Avaliação 2: ", nota2)
 print("Nota da Avaliação 3: ", nota3)
 print("\nMédia das notas: ", media)
+
+#resultado
+if media>7.0 :
+    print("Você está aprovado.")
+else :
+    print("Você está reprovado.")
